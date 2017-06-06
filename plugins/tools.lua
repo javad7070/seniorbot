@@ -1279,16 +1279,16 @@ _Delete all members_
 *!bot on*			
 _Turn bot_			
 
-*bot off*			
+*!bot off*			
 _Turn off bot_			
 
 *!cleanbot*			
 _Remove all bots Group_			
 
-*!report [reply]			
+*!report* `[reply]`			
 _Send a report to the Admin_			
 
-*!setmaster*			
+*!setmaster* `[reply]`		
 _Set admin for send Report_			
 			
 *!desudo* `[username|id|reply]`
@@ -1418,10 +1418,10 @@ _اضافه کردن سودو_
 *!cleanbot*			
 حذف تمام ربات های گروه			
 
-*!report [reply]*			
+*!report* `[reply]`			
 ارسال گزارش به مدیر گروه			
 			
-*!setmaster [number id]*			
+*!setmaster* `[number id]`			
 تنظیم مدیر گروه برای ارسال گزارش			
 			
 *!desudo* `[username|id|reply]`
